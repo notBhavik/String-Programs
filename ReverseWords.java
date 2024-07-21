@@ -1,4 +1,4 @@
-public class reverseWords{
+public class ReverseWords{
 
 public static void main(String []args){
 String a="Hey I am Bhavik Upadhyay";
